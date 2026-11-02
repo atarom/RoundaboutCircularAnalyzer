@@ -15,5 +15,3 @@ RoundaboutCircularAnalyzer analyzes OpenStreetMap ways tagged `junction=roundabo
 - [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) — map tiles and geographic data under the ODbL.
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) — OSM data queries.
 - [Nominatim](https://nominatim.org/) — place search.
-
-Run locally with `python3 -m http.server 8000` from the repository directory and open `http://localhost:8000/`.
